@@ -131,3 +131,18 @@ footer {
   color: var(--muted);
   background: #fff;
 }
+.title {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-top: 20px;
+}
+.title img {
+  flex: none;
+}
+.title h1 {
+  margin: 0;
+}
+.title p {
+  margin: 0;
+}
